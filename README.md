@@ -1,15 +1,18 @@
 # apas-agri-horty
 
-A developer project application codebase.
+## Overview
+**apas-agri-horty** is a software application codebase.
 
-## Features & Project Details
-- Clean, structured codebase setup.
-- Automated repository management and tracking.
+## Directory Structure
+```
+.gitignore
+README.md
+```
 
-## Getting Started
-1. Clone the repository.
-2. Review project structure and install dependencies based on configuration files.
-3. Run the development or build scripts as specified in the project.
+## Setup & Running
+1. Clone the repository: `git clone https://github.com/sreenath1212/apas-agri-horty.git`
+2. Install necessary dependencies based on configuration files.
+3. Run the entrypoint script.
 
 ---
-*Uploaded & maintained automatically.*
+*Maintained automatically.*
